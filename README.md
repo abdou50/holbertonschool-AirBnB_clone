@@ -14,20 +14,21 @@ An API that provides a communication interface between the front-end and your da
 A community based on sharing
 Airbnb was born in 2008, when two designers with a spare bedroom welcomed three travelers who were looking for a place to sleep. Today, millions of hosts and travelers choose to create a free Airbnb account to post their listing or book unique places around the world. And Airbnb Experience Hosts share their passions and interests with travelers and locals.
 # Concepts
-* colaboration 
+# colaboration 
 achref haddadji
 abdelkader raddadi
-* compile
+# compile
 
-* excutation
+# excutation
 
-* unittest
+# unittest
 python3 -m unittest discover tests
 
-* CMD
+# CMD
 The commands module contains utility functions for working with shell command output under Unix. This module is made obsolete by the subprocess module. There are 3 functions in the commands module for working with external commands. The functions are shell-aware and return the output or status code from the command.
-* OOP
+# OOP
 OOP is one of the most fundamental programming concepts. Let’s explore the four main OOP concepts in python and discuss how each works.
 
 python is one of many programming languages and technologies supported by Netreo’s leading tools, Retrace and Prefix. At Netreo, we aim to help developers become better. Let’s take a look at some of the foundational Java programming language concepts with a primer on OOP concepts in python
-# thnx 
+# usage 
+check it in our repo 
